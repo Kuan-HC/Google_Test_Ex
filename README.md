@@ -29,3 +29,7 @@ https://github.com/google/googletest
 ```
 
 <img src="img/gtest.png" width = "300"/>
+
+4. Result
+
+<img src="img/result.png" width = "450"/>
