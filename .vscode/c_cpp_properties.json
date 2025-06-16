@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Tools\\Mingw64\\include",
+                "C:\\Tools\\Mingw64\\lib"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Tools\\Mingw64\\bin\\g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
